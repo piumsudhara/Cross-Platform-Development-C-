@@ -1,1 +1,1 @@
-Cross-Platform-Development-in-C-
+Qt Project

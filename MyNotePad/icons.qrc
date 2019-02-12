@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>Icons/About.png</file>
+        <file>Icons/Bold.png</file>
+        <file>Icons/Cancel.png</file>
+        <file>Icons/Clear.png</file>
+        <file>Icons/Colour Palette.png</file>
+        <file>Icons/Copy.png</file>
+        <file>Icons/Cut.png</file>
+        <file>Icons/Find.png</file>
+        <file>Icons/Find Next.png</file>
+        <file>Icons/Font.png</file>
+        <file>Icons/Italic.png</file>
+        <file>Icons/Logo.png</file>
+        <file>Icons/New.png</file>
+        <file>Icons/Open.png</file>
+        <file>Icons/Paste.png</file>
+        <file>Icons/Recent.png</file>
+        <file>Icons/Redo.png</file>
+        <file>Icons/Save.png</file>
+        <file>Icons/Save_As.png</file>
+        <file>Icons/Select All.png</file>
+        <file>Icons/Underline.png</file>
+        <file>Icons/Undo.png</file>
+        <file>Icons/Zoom In.png</file>
+        <file>Icons/Zoom Out.png</file>
+        <file>Icons/Subscript.png</file>
+        <file>Icons/Superscript.png</file>
+        <file>Icons/Strikethrough.png</file>
+        <file>Icons/Arabic Numbers.png</file>
+        <file>Icons/Circle.png</file>
+        <file>Icons/Disc.png</file>
+        <file>Icons/Lowercase Alphabet.png</file>
+        <file>Icons/Lowercase Roman.png</file>
+        <file>Icons/Square.png</file>
+        <file>Icons/Uppercase Alphabet.png</file>
+        <file>Icons/Uppercase Roman.png</file>
+    </qresource>
+</RCC>
